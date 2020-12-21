@@ -16,4 +16,3 @@ https://tom-meyrick.github.io/iScream/#/
 
 ## Screenshot
 ![Wireframe](https://github.com/Gilson96/CRUD-App/blob/master/src/Assets/Screenshot.png)
-(https://github.com/Gilson96/CRUD-App/blob/master/src/Assets/Screenshot.png)
