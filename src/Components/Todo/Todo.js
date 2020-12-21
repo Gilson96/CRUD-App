@@ -11,7 +11,7 @@ export const Todo = ({ task }) => {
                     className="btn-delete task-btn"
                     onClick={() => removeTask(task.id)}
                 >
-                    <i className="fas fa-trash-alt"></i>
+                    <i className="fas fa-times"></i>
                 </button>{' '}
                 <button className="btn-edit task-btn" onClick={() => findItem(task.id)}>
                     <i className="fas fa-pen"></i>
