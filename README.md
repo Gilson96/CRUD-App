@@ -3,7 +3,7 @@
 Build a basic crud app that is able to add, edit, delete a task. 
 
 You can view the site here: 
-https://tom-meyrick.github.io/iScream/#/
+
 
 ## Technologies
 - React,
