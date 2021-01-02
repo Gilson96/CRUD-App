@@ -2,7 +2,7 @@
 
 Build a basic crud app that is able to add, edit, delete a task. 
 
-You can view the site here: 
+You can view the site here: https://gilson96.github.io/CRUD-App/
 
 
 ## Technologies
