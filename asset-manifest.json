@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CRUD-App.git/static/css/main.cc2bc86d.chunk.css",
+    "main.js": "/CRUD-App.git/static/js/main.f18e7102.chunk.js",
+    "main.js.map": "/CRUD-App.git/static/js/main.f18e7102.chunk.js.map",
+    "runtime-main.js": "/CRUD-App.git/static/js/runtime-main.3dbe3a06.js",
+    "runtime-main.js.map": "/CRUD-App.git/static/js/runtime-main.3dbe3a06.js.map",
+    "static/js/2.f94d52e1.chunk.js": "/CRUD-App.git/static/js/2.f94d52e1.chunk.js",
+    "static/js/2.f94d52e1.chunk.js.map": "/CRUD-App.git/static/js/2.f94d52e1.chunk.js.map",
+    "static/js/3.6434b0ee.chunk.js": "/CRUD-App.git/static/js/3.6434b0ee.chunk.js",
+    "static/js/3.6434b0ee.chunk.js.map": "/CRUD-App.git/static/js/3.6434b0ee.chunk.js.map",
+    "index.html": "/CRUD-App.git/index.html",
+    "static/css/main.cc2bc86d.chunk.css.map": "/CRUD-App.git/static/css/main.cc2bc86d.chunk.css.map",
+    "static/js/2.f94d52e1.chunk.js.LICENSE.txt": "/CRUD-App.git/static/js/2.f94d52e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dbe3a06.js",
+    "static/js/2.f94d52e1.chunk.js",
+    "static/css/main.cc2bc86d.chunk.css",
+    "static/js/main.f18e7102.chunk.js"
+  ]
+}
